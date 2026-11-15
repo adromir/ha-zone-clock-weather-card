@@ -13,6 +13,17 @@ Equipped with a complete visual **GUI Card Editor**, zero external dependencies,
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adromir/ha-zone-clock-weather-card/main/Screenshots/zone-clock-weather-card.png" alt="Zone Clock & Weather Card Preview" width="800">
+</p>
+<p align="center">
+  <em>Multi-zone clocks & weather: live local time, time offset pills, dynamic weather metrics, and zone resident presence avatars.</em>
+</p>
+
+---
+
 ## 🎯 Key Features
 
 - 🕒 **Live Local Time per Zone**: Renders live digital clocks with localized day and date format (`Intl.DateTimeFormat`) for any IANA timezone (Berlin, London, New York, Tokyo, Sydney, etc.).
